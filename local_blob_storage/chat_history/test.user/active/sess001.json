@@ -1,0 +1,57 @@
+{
+  "session_id": "sess001",
+  "messages": [
+    {
+      "role": "user",
+      "message_id": "msg001",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What are working hours?",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "ebf8b8ea-f148-48ee-ab7d-766cbf041edd",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": [
+        "\u2705 System is working!\n\nYour question: 'What are working hours?'\nState selected: Maharashtra\n\nThis is a test response generated at 2025-12-17T06:07:41.211289 UTC.",
+        {
+          "query": "What are working hours?",
+          "state": "Maharashtra",
+          "timestamp": "2025-12-17T06:07:41.211289",
+          "type": "smoke_test"
+        }
+      ],
+      "timestamp": "2025-12-17T06:07:41.211289+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg001",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What are working hours?",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "0b2e7f99-7654-4ca2-85ac-f71934f29785",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": [
+        "\u2705 System is working!\n\nYour question: 'What are working hours?'\nState selected: Maharashtra\n\nThis is a test response generated at 2025-12-17T06:13:33.616892 UTC.",
+        {
+          "query": "What are working hours?",
+          "state": "Maharashtra",
+          "timestamp": "2025-12-17T06:13:33.616892",
+          "type": "smoke_test"
+        }
+      ],
+      "timestamp": "2025-12-17T06:13:33.616892+00:00",
+      "feedback_status": "not given"
+    }
+  ]
+}

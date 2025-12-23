@@ -1,0 +1,59 @@
+{
+  "session_id": "sess004",
+  "messages": [
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "4c9f1a77-f3a5-48dd-a96f-15eb7cf2e706",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absence from duty. Specifically, Section 18(1) states that there shall be no deductions from the wages of an employee except those authorized under this Code (the_code_on_wages_2019_no._29_of_2019, Page 9). Deductions for absence from duty are explicitly outlined in Section 20, which provides that deductions may be made only for the absence of an employee from the place where they are required to work, and this absence can be for the whole or any part of the period during which they are required to work (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nThe amount deducted for such absence must not exceed the proportion of the wages payable to the employee in respect of the wage-period for which the deduction is made, relative to the total period during which the employee was required to work (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if an employee is absent without due notice and without reasonable cause, the employer may deduct an amount not exceeding the wages for eight days (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nAs per the Central Code (Internal Legal Reference), \"wages\" is defined under Section 2(y) of the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment, express or implied, were fulfilled, be payable to a person in respect of his employment. This includes basic pay, dearness allowance, and any other allowances.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, for instance, deductions for absence were not as clearly defined, and the criteria for such deductions were less stringent. The earlier laws allowed for deductions but did not specify the proportionality of deductions relative to the absence period as clearly as the current Code does.\n\nIn contrast, the Code on Wages, 2019, consolidates and clarifies the rules surrounding wage deductions, ensuring that deductions are proportionate to the absence and that employees are given an opportunity to show cause against such deductions (the_code_on_wages_2019_no._29_of_2019, Page 12). This provision enhances employee rights by providing a clearer framework for deductions and ensuring compliance with fair labor practices.\n\nOverall, the new Code introduces a more structured approach to wage deductions for absence, emphasizing fairness and transparency, which was less emphasized in the older legislative framework.",
+      "timestamp": "2025-12-23T05:44:30.223424+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg003",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Does this deduction have to be proportionate to the period of absence, or can the employer deduct more?",
+      "timestamp": "2025-01-01T11:05:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "5175852c-fbe8-4615-9162-d8759e6b26a0",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, deductions from an employee's wages for absence from duty must be proportionate to the period of absence. Specifically, Section 20(1) states that deductions may only be made for the absence of an employee from the place where they are required to work, and this absence can be for the whole or any part of the period during which they are required to work (the_code_on_wages_2019_no._29_of_2019, Page 12). Furthermore, the amount deducted must not exceed the proportion of the wages payable to the employee in respect of the wage-period for which the deduction is made, relative to the total period during which the employee was required to work (the_code_on_wages_2019_no._29_of_2019, Page 11). This ensures that deductions are fair and directly related to the actual period of absence.\n\n### 2. Legal Definition (If Required)\nAs per the Central Code (Internal Legal Reference), \"wages\" is defined under Section 2(y) of the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment, express or implied, were fulfilled, be payable to a person in respect of his employment. This includes basic pay, dearness allowance, and any other allowances.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant improvement over previous legislation. Under the Factories Act, 1948, while deductions for absence were permitted, the criteria for such deductions were less clearly defined, and there was no explicit requirement for proportionality in deductions relative to the absence period. The earlier laws allowed for deductions but did not specify the maximum limits or the necessity for deductions to be proportionate to the absence duration.\n\nIn contrast, the Code on Wages, 2019, consolidates and clarifies the rules surrounding wage deductions, ensuring that deductions are strictly proportionate to the absence and that employees are afforded an opportunity to contest such deductions (the_code_on_wages_2019_no._29_of_2019, Page 12). This provision enhances employee rights by providing a clearer framework for deductions and ensuring compliance with fair labor practices. Overall, the new Code introduces a more structured approach to wage deductions for absence, emphasizing fairness and transparency, which was less emphasized in the older legislative framework.",
+      "timestamp": "2025-12-23T05:45:31.762730+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg003",
+      "state_id": "KA",
+      "state_name": "Jharkhand",
+      "message": "Does this deduction have to be proportionate to the period of absence, or can the employer deduct more?",
+      "timestamp": "2025-01-01T11:05:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "108455a2-5847-4c6a-b89d-2ce7710ce844",
+      "state_id": "KA",
+      "state_name": "Jharkhand",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, deductions from an employee's wages for absence from duty must be proportionate to the period of absence. Specifically, Section 20(1) states that deductions may only be made for the absence of an employee from the place where they are required to work, and this absence can be for the whole or any part of the period during which they are required to work (The_Code_on_Wages_(Jharkhand)_Rules_2021_onlyEnglish.pdf, Page 5). Furthermore, the amount deducted must not exceed the proportion of the wages payable to the employee in respect of the wage-period for which the deduction is made, relative to the total period during which the employee was required to work (The_Code_on_Wages_(Jharkhand)_Rules_2021_onlyEnglish.pdf, Page 5). This ensures that deductions are fair and directly related to the actual period of absence.\n\n### 2. Legal Definition (If Required)\nAs per the Central Code (Internal Legal Reference), \"wages\" is defined under Section 2(y) of the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment, express or implied, were fulfilled, be payable to a person in respect of his employment. This includes basic pay, dearness allowance, and any other allowances.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant improvement over previous legislation. Under the Factories Act, 1948, while deductions for absence were permitted, the criteria for such deductions were less clearly defined, and there was no explicit requirement for proportionality in deductions relative to the absence period. The earlier laws allowed for deductions but did not specify the maximum limits or the necessity for deductions to be proportionate to the absence duration. \n\nIn contrast, the Code on Wages, 2019, consolidates and clarifies the rules surrounding wage deductions, ensuring that deductions are strictly proportionate to the absence and that employees are afforded an opportunity to contest such deductions (The_Code_on_Wages_(Jharkhand)_Rules_2021_onlyEnglish.pdf, Page 5). This provision enhances employee rights by providing a clearer framework for deductions and ensuring compliance with fair labor practices. Overall, the new Code introduces a more structured approach to wage deductions for absence, emphasizing fairness and transparency, which was less emphasized in the older legislative framework.",
+      "timestamp": "2025-12-23T06:51:54.593292+00:00",
+      "feedback_status": "not given"
+    }
+  ]
+}

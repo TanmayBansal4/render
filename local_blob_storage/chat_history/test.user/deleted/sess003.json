@@ -1,0 +1,41 @@
+{
+  "session_id": "sess003",
+  "messages": [
+    {
+      "role": "user",
+      "message_id": "msg003",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the penalty for non maintenance of registers?",
+      "timestamp": "2025-01-01T12:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "c3ec3ffa-98c1-40e1-95e1-96d41a1424fd",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "The context provided does not specify a penalty for the non-maintenance of registers. Therefore, based on the available information, I cannot provide an answer regarding the penalty for non-maintenance of registers.",
+      "timestamp": "2025-12-18T04:41:28.798854+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg003",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the penalty for non maintenance of registers?",
+      "timestamp": "2025-01-01T12:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "8a13fbf2-236d-49f3-aa25-dd9f04cd076d",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nThe provided State Draft Rules do not explicitly mention the penalty for non-maintenance of registers. However, it is implied that failure to comply with the registration and maintenance requirements may lead to punitive actions against the employer. Specifically, if an employer employs contract workers in their main production activities without proper registration, they may become liable for punitive action (Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf, Page 85). Additionally, the rules stipulate that employers must inform the registering officer of any changes in the number of workers or conditions of work within 30 days, which suggests that non-compliance could lead to penalties (Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf, Page 134).\n\n### 2. Legal Definition (If Required)\nAs per the Central Code (Internal Legal Reference), the maintenance of registers is a requirement under various provisions of the Labour Codes. For instance, under the Code on Wages, 2019, Section 45 mandates employers to maintain registers and records as prescribed. Failure to maintain such records can attract penalties, which may include fines up to \u20b950,000 for the first contravention and up to \u20b91,00,000 for subsequent contraventions.\n\n### 3. Old vs New Analysis (CRITICAL)\nIn comparing the current provisions with older Acts, such as the Factories Act, 1948, and the Contract Labour (Regulation and Abolition) Act, 1970, the following changes can be noted:\n\n- **What has changed**: The new codes consolidate various requirements into a more streamlined framework, reducing redundancy and clarifying obligations regarding record-keeping and registration.\n  \n- **What is newly introduced**: The emphasis on electronic maintenance of registers and the requirement for immediate reporting of changes to the registering officer are new features that enhance compliance and monitoring (Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf, Page 134).\n\n- **What has been removed or consolidated**: The specific provisions regarding the maintenance of registers from multiple older acts have been consolidated into the new codes, which simplifies the compliance landscape for employers.\n\nOverall, while the requirement to maintain registers remains, the framework has been modernized and made more stringent in terms of compliance and penalties for non-compliance.",
+      "timestamp": "2025-12-18T04:49:22.889292+00:00",
+      "feedback_status": "not given"
+    }
+  ]
+}

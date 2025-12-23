@@ -1,0 +1,733 @@
+{
+  "session_id": "sess002",
+  "messages": [
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "e18686d3-0281-450b-a282-98ea31a57fd4",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": null,
+      "timestamp": "2025-12-17T06:25:45.824160+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "8fedd899-c4be-4762-b4ea-c31a34a19244",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### The Rule:\nAccording to the provided context from the Maharashtra State Draft Rules, specifically under Rule 46, the competent authority is required to decide on an application for license modification within **seven days** from the date of receiving the application electronically. This is a clear stipulation aimed at ensuring timely processing of applications related to changes in the licensing of industrial premises.\n\n### Legal Definition:\nWhile the context does not provide a specific definition for \"license modification,\" it generally refers to the process of altering the terms of an existing license. This can include changes in the name of the industrial premises, changes in the site location, or adjustments in the number of persons employed, as outlined in sub-rules (2) and (3) of Rule 46.\n\n### Old vs. New Analysis (CRITICAL):\nIn comparing the new provisions under the Code on Wages and related labor codes with previous legislation such as the **Factories Act, 1948** and the **Maharashtra Shops and Establishments Act**, we can observe the following:\n\n1. **Time Frame for Decision-Making:**\n   - **Old Provisions:** Previous laws did not specify a strict time frame for the decision-making process regarding license modifications. The timelines were often vague, leading to delays and uncertainty for employers.\n   - **New Provisions:** The introduction of a **seven-day** decision-making period for license modifications represents a significant improvement in efficiency and accountability. This change aims to reduce bureaucratic delays and enhance the responsiveness of the labor administration.\n\n2. **Electronic Submission:**\n   - **Old Provisions:** Applications were typically required to be submitted in person or via post, which could lead to logistical challenges and delays.\n   - **New Provisions:** The requirement for electronic submission of applications is a modern approach that streamlines the process, making it more accessible and efficient for employers. This aligns with the government's push for digital governance.\n\n3. **Clarity and Structure:**\n   - **Old Provisions:** Previous regulations often lacked clarity regarding the procedures for license modifications, which could lead to confusion among employers.\n   - **New Provisions:** The current rules provide a structured framework for applications, including specific forms and the requirement for supporting documentation, which enhances transparency and predictability in the licensing process.\n\n4. **Appeal Process:**\n   - **Old Provisions:** The appeal processes were often cumbersome and lacked clear timelines.\n   - **New Provisions:** The new rules outline a more systematic approach to appeals, including specific forms and timelines for decisions, thereby improving the overall legal framework for resolving disputes.\n\nIn conclusion, the new provisions under the Code on Wages and related labor codes, particularly regarding the time limit for license modification applications, represent a shift towards more efficient, transparent, and user-friendly processes compared to the older legislative framework.",
+      "timestamp": "2025-12-17T06:28:29.982310+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "c8f52862-f077-4428-a611-beb281e1bae0",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": {
+        "answer": "### The Rule:\nAccording to the provided context from the Maharashtra State Draft Rules, specifically under Rule 46, the competent authority is required to decide on an application for license modification within **seven days** from the date of receiving the application electronically. This is explicitly stated in sub-rule (4) of the context provided.\n\n### Legal Definition:\nWhile the context does not provide a specific legal definition for \"license modification,\" it generally refers to the process of altering the terms or conditions of a license granted to an industrial establishment. This could involve changes in the name of the industrial premises, the site of the premises, or the number of employees exceeding the limits specified in the original license.\n\n### Old vs. New Analysis (CRITICAL):\nIn comparing this provision with the previous regulatory framework, particularly the **Factories Act, 1948**, which governed the licensing of industrial establishments, there are notable changes:\n\n1. **Time Frame for Decision**: \n   - **Old Law**: The previous provisions did not specify a strict time limit for the decision on license modifications, leading to potential delays and bureaucratic inefficiencies.\n   - **New Law**: The new Code mandates a clear timeline of **seven days** for the competent authority to decide on license modification applications. This change aims to streamline the process and enhance operational efficiency.\n\n2. **Electronic Submission**:\n   - **Old Law**: The previous framework primarily relied on physical submissions of applications, which could lead to delays and loss of documents.\n   - **New Law**: The introduction of electronic applications signifies a shift towards digital governance, making the process more accessible and efficient for applicants.\n\n3. **Clarity and Specificity**:\n   - **Old Law**: The earlier regulations were often vague regarding the procedures and timelines for various applications.\n   - **New Law**: The current rules provide specific forms (e.g., Form-XXI for applications) and clear guidelines on the process, which enhances transparency and accountability.\n\nOverall, the new provisions under the Code represent a significant improvement in terms of efficiency, clarity, and the use of technology compared to the previous regulatory framework. The emphasis on a defined timeline for decision-making is particularly noteworthy as it addresses one of the longstanding issues in the regulatory processes under the earlier laws.",
+        "sources": [
+          {
+            "source": "Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf",
+            "page": 126
+          },
+          {
+            "source": "Social-Security-code-Maharashtra.pdf",
+            "page": 62
+          },
+          {
+            "source": "Social-Security-code-Maharashtra.pdf",
+            "page": 64
+          },
+          {
+            "source": "Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf",
+            "page": 125
+          },
+          {
+            "source": "Maharashtra-industrial-relation-rules-2021.pdf",
+            "page": 16
+          }
+        ]
+      },
+      "timestamp": "2025-12-17T06:33:01.982090+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "8f8bf643-393c-457a-99b9-f83df24eafb0",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": null,
+      "timestamp": "2025-12-18T04:36:54.759148+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "886ee1a4-59a4-4551-9a6c-eb5d16ae1f82",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "The time limit for the competent authority to decide on an electronic application for license modification is thirty days from the receipt of the application (Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf, Page 67).",
+      "timestamp": "2025-12-18T04:39:15.412405+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "94d671eb-27b4-4f89-923d-295d17b263d4",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "The time limit for the competent authority to decide on an electronic application for license modification is thirty days from the receipt of the application (SOURCE: Maharashtra-notifies-draft-Occupational-Safety-Health-and-Working-Conditions-Labour-Rules-2022.pdf 1 | PAGE: 67).",
+      "timestamp": "2025-12-18T04:41:59.434171+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "d349c35e-fb3d-4198-950e-b194ee461ec0",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nThe Maharashtra Draft Rules specify that upon receipt of an application for license modification, the certifying officer is required to provide observations regarding the necessary provisions that the employer must include within a period of thirty days from the receipt of the application. The officer will indicate which relevant provisions of the model standing orders have not been adopted and will direct the employer to amend the standing order accordingly, also within a period of thirty days from the date of the direction. The employer is then required to send a compliance report electronically concerning the amendments specified by the certifying officer (Maharashtra-industrial-relation-rules-2021.pdf, Page 10).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nIn comparing the current provisions regarding license modification with the older Acts, such as the Industrial Disputes Act, 1947, it is evident that the new rules introduce a more structured and time-bound process for the certifying officer's response to license modification applications. Previously, there was no explicit time frame mandated for the certifying officer to respond, which could lead to delays. The new requirement for a thirty-day response period for both the initial observations and the subsequent amendments represents a significant improvement in efficiency and accountability. Additionally, the electronic submission of compliance reports is a new feature that enhances transparency and record-keeping. Overall, this provision marks a shift towards a more regulated and timely approach in handling license modifications, which was less defined in the older legislative framework.",
+      "timestamp": "2025-12-18T04:47:13.438522+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "75ce2bf3-b735-4cb0-a3e4-f09bab84f7e4",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nThe competent authority, upon receiving an electronic application for license modification, is required to make a decision within a period of thirty days from the receipt of the application. If the authority finds that certain provisions relevant to the establishment have not been adopted, they may direct the employer to amend the standing orders accordingly, also within a thirty-day timeframe (Maharashtra-industrial-relation-rules-2021.pdf, Page 10).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThis provision introduces a clear timeline for the decision-making process regarding license modifications, which may not have been explicitly defined in older legislation. Previously, under the Factories Act, 1948, and similar laws, there were no specific time limits mandated for the authorities to respond to applications for modifications. The introduction of a thirty-day period for decision-making represents a significant improvement in procedural clarity and efficiency. This change aims to enhance accountability and ensure timely responses from the authorities, which is a new feature compared to the older Acts.",
+      "timestamp": "2025-12-19T03:44:27.249881+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What is the time limit for the competent authority to decide on an electronic application for license modification?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "7c623875-543c-485f-aafa-79752e8fb757",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nThe competent authority is required to decide on an electronic application for license modification within a period not exceeding thirty days from the date of receipt of the application. If no order is communicated to the applicant within this period, the permission applied for shall be deemed to have been granted (osh_gazette, Page 49). This provision ensures that applicants receive timely responses to their requests, promoting efficiency in the licensing process (osh_gazette, Page 49).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThis provision introduces a significant change compared to the previous regulatory framework. Under older acts, such as the Factories Act, 1948, there was no explicit time limit for the authority to respond to applications for license modifications. The new rule establishes a clear timeframe of thirty days, which is a newly introduced feature aimed at enhancing administrative efficiency and accountability. This change reflects a shift towards a more streamlined and responsive regulatory environment, which was not as clearly defined in the older legislation.",
+      "timestamp": "2025-12-19T04:45:50.850820+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "What types of matters can the Corporation make regulations for under sub-clause (2) of clause 157, and which specific clauses of the Bill do these matters relate to?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "d3a33804-9941-46ed-aa03-46377e796bd9",
+      "state_id": "MH",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder sub-clause (2) of clause 157, the Corporation is empowered to make regulations concerning various matters related to the administration of its affairs. These matters include: (a) the cases and matters to be submitted for the decision of the Corporation under sub-clause (4) of clause 5; (b) the composition of committees under sub-clause (6) of clause 5; (c) the areas in which the Corporation may appoint Regional Boards and local committees, and the manner in which such Boards and committees shall perform their functions and exercise their powers under sub-clause (2) of clause 12; and (d) other functions of the Director General and the Financial Commissioner as specified in sub-clause (4) (ss_code_as_introduced_in_lok_sabha, Page 149).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThis provision introduces a structured regulatory framework for the Corporation, which is a shift from the previous Acts that did not explicitly empower a central body to create such detailed regulations. The older Acts, such as the Factories Act, 1948, and the Contract Labour (Regulation and Abolition) Act, 1970, primarily focused on direct regulations concerning worker safety and rights without a centralized regulatory authority like the Corporation. \n\n- **What has changed**: The introduction of a Corporation with the authority to make regulations marks a significant change, providing a centralized mechanism for governance.\n- **What is newly introduced**: The ability for the Corporation to establish Regional Boards and local committees is a new feature that allows for localized governance and oversight.\n- **What has been removed or consolidated**: The previous fragmented approach to labor regulation is consolidated under the Corporation, streamlining the regulatory process.\n\nOverall, this provision represents a significant evolution in labor governance, moving towards a more organized and centralized regulatory framework.",
+      "timestamp": "2025-12-19T04:47:13.208534+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What is the minimum wage fixation process under the Code on Wages 2019",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "16b539dc-49ec-4409-a91e-67f579b1b60c",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nThe minimum wage fixation process under the Code on Wages, 2019, is outlined in several sections. According to Section 6, the appropriate Government is responsible for fixing the minimum rates of wages for different classes of employees (the_code_on_wages_2019_no._29_of_2019, Page 6). The Government must take into account various factors, including the skill level of workers, which can be categorized as unskilled, semi-skilled, skilled, and highly-skilled (the_code_on_wages_2019_no._29_of_2019, Page 6). \n\nAdditionally, the State Government is required to divide the geographical area into three categories: Metropolitan city, Non-Metropolitan city, and rural area, to facilitate the fixation of minimum wages (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 4). A technical committee is to be constituted to advise the State Government on skill categorization, which will include members from various relevant departments (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 4).\n\nThe minimum rate of wages must be fixed at a rate equal to or above the floor wages set by the Central Government, and the calculation of these wages should consider the standard working-class family needs, including caloric intake and clothing requirements (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 3).\n\n### 2. Legal Definition (If Required)\nThe term \"minimum wage\" is defined under the Central Code as the lowest remuneration that employers can legally pay their workers. This is established to ensure that workers receive a fair wage for their labor. As per the Central Code (Internal Legal Reference), Section 3 states that the minimum wage must be fixed by the appropriate Government and should not be less than the floor wage determined by the Central Government.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe minimum wage fixation process has undergone significant changes with the introduction of the Code on Wages, 2019, compared to previous legislation such as the Minimum Wages Act, 1948. \n\n- **What has changed**: The new Code consolidates various wage-related laws and introduces a more structured approach to wage fixation, including the categorization of geographical areas and the establishment of a technical committee for skill assessment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 4). \n\n- **What is newly introduced**: The concept of a floor wage has been introduced, which serves as a baseline for minimum wages across different states (the_code_on_wages_2019_no._29_of_2019, Page 7). The requirement for the State Government to consider family needs in wage calculations is also a new aspect (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 3).\n\n- **What has been removed or consolidated**: The previous fragmented approach of multiple laws has been consolidated into a single Code, simplifying the legal framework for wage fixation. The specific provisions regarding wage fixation from older acts have been integrated into the new Code, streamlining the process.\n\nOverall, the new provisions represent a significant shift towards a more systematic and equitable approach to wage determination, ensuring that minimum wages are reflective of living standards and economic conditions.",
+      "timestamp": "2025-12-19T05:01:44.216990+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "b757be82-47b9-4a28-be24-b0fe221978d3",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nUnder the applicable labour rules, specifically in Form-I (Register of Wages, Overtime, Fine, and Deductions), the employer is required to maintain several details. These include:\n\n- The name of the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The name of the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The name of the owner (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The PAN/TAN of the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The Labour Identification Number (LIN) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The serial number of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The name of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The designation of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The duration of the payment of wages (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The total number of days worked (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The rates of wages, including basic pay and dearness allowance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- Overtime details, including the total overtime hours worked (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- Any deductions for damage or loss, along with the nature of acts and omissions (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The amount of fine imposed (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The date of attendance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- The signature of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n### 2. Legal Definition (If Required)\nThis section does not require additional legal definitions as the details are explicitly outlined in the provided context.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe requirements for maintaining records in Form-I under the new Code on Wages represent a consolidation and modernization of previous record-keeping requirements found in older legislation such as the Payment of Wages Act, 1936, and the Minimum Wages Act, 1948. \n\n- **What has changed**: The new rules emphasize electronic record-keeping and the inclusion of additional details such as the Labour Identification Number (LIN) and specific deductions for damage or loss, which were not explicitly required in older laws (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n  \n- **What is newly introduced**: The requirement for maintaining a detailed register that includes overtime, fines, and deductions is more comprehensive compared to previous acts, which primarily focused on wages and attendance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n- **What has been removed or consolidated**: The new rules consolidate various record-keeping requirements into a single form, reducing redundancy and streamlining compliance for employers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\nOverall, the new provisions enhance transparency and accountability in wage payments and deductions, aligning with modern employment practices.",
+      "timestamp": "2025-12-19T05:08:24.819687+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "0c045b3c-e2ab-420c-a173-fb992a870d6a",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nEstablishments employing 50 or more workers are required to provide various occupational health and safety facilities as well as employee welfare amenities. Specifically, they must ensure the following:\n\n1. **Occupational Health Centre**: For factories employing up to 50 workers, arrangements must be made for procuring health services from a nearby hospital or other places to meet emergencies (Karnataka OSH code.pdf, Page 50). For those employing 51 to 200 workers, an Occupational Health Centre must be established with a minimum floor area of 15 sq. m., and it should be equipped with necessary medical facilities and personnel (Karnataka OSH code.pdf, Page 50).\n\n2. **Welfare Facilities**: Establishments must provide mess room facilities that are well-ventilated, equipped with tables and sitting facilities, and ensure the availability of cold and hygienic drinking water (Karnataka OSH code.pdf, Page 271). Additionally, cloakroom facilities with lockers must be provided for all workers (Karnataka OSH code.pdf, Page 271).\n\n3. **Safety and Health Policy**: Employers are required to develop and implement a Health and Safety Policy, which includes the organization structure related to health, safety, and environment protection (Karnataka OSH code.pdf, Page 154).\n\n4. **Emergency Medical Services**: Factories must have trained personnel available during working hours to handle medical emergencies, including a fully equipped first-aid box (Karnataka OSH code.pdf, Page 50).\n\n5. **Compliance with Safety Provisions**: The occupier is responsible for complying with all safety-related provisions of the code (Karnataka OSH code.pdf, Page 50).\n\n### 2. Legal Definition (If Required)\nThe term \"Occupational Health Centre\" is not explicitly defined in the provided context. However, as per the Central Code (Internal Legal Reference), an Occupational Health Centre is a facility that provides medical services and health monitoring for workers, particularly in hazardous industries, as outlined in Section 45 of the Occupational Safety, Health and Working Conditions Code.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding workplace facilities for establishments employing 50 or more workers have undergone significant changes compared to older legislation:\n\n- **Factories Act, 1948**: Previously, the Act mandated certain welfare facilities but did not specify the establishment of an Occupational Health Centre for smaller factories. The new codes provide a clearer framework for health services based on the number of employees.\n\n- **Contract Labour (Regulation and Abolition) Act, 1970**: This Act did not address the specific health and safety requirements for workers in the same detail as the new codes, which now require comprehensive health and safety policies and facilities.\n\n- **Inter-State Migrant Workmen Act, 1979**: While this Act focused on the rights of migrant workers, it lacked detailed provisions for health and safety infrastructure, which are now explicitly required under the new codes.\n\nOverall, the new codes introduce a more structured approach to occupational health and safety, emphasizing the need for dedicated health facilities and comprehensive welfare measures, which were less defined in the older Acts. The requirement for an Occupational Health Centre and specific welfare amenities represents a significant enhancement in worker protection standards.",
+      "timestamp": "2025-12-19T12:02:55.733514+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "4afd5001-8410-4ef5-aa63-93635540e814",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nEstablishments employing 50 or more workers are required to provide specific facilities to ensure workplace safety and employee welfare. According to the Karnataka OSH Code, these facilities include:\n\n- **Mess Room Facilities**: Employers must provide well-ventilated mess room facilities with tables and sitting arrangements, along with cold and hygienic drinking water (Karnataka OSH code.pdf, Page 271).\n- **Cloak Room Facilities**: Employers are required to provide cloak room facilities with lockers for each worker, allowing them to store work and personal clothing separately (Karnataka OSH code.pdf, Page 271).\n- **Occupational Health Centres**: Factories carrying out hazardous processes must maintain an Occupational Health Centre, which includes medical services and facilities as per specified scales (Karnataka OSH code.pdf, Page 50).\n- **Personal Protective Equipment (PPE)**: All workers exposed to hazards must be provided with appropriate and approved types of PPE, which should be kept in a clean and hygienic condition (Karnataka OSH code.pdf, Page 256).\n- **Training and Supervision**: Employers must ensure that all operations are carried out under proper supervision and that workers are trained in the use of safety equipment (Karnataka OSH code.pdf, Page 370).\n\nThese provisions are aimed at enhancing the safety and well-being of employees in larger establishments.\n\n### 2. Legal Definition (If Required)\nThe term \"Occupational Health Centre\" is not explicitly defined in the provided context. However, as per the Central Code (Internal Legal Reference), an Occupational Health Centre is defined under Section 45 of the Occupational Safety, Health and Working Conditions Code, 2020, which mandates the establishment of health facilities in workplaces where hazardous processes are carried out.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions for workplace facilities in the new codes represent a significant shift from previous legislation:\n\n- **Factories Act, 1948**: Previously, the requirement for welfare facilities was less stringent, with fewer specific mandates for the number of workers. The new codes have expanded the scope and detail of required facilities.\n- **Contract Labour (Regulation and Abolition) Act, 1970**: This Act did not specifically address the comprehensive welfare facilities that are now mandated for larger establishments.\n- **Inter-State Migrant Workmen Act, 1979**: While this Act focused on migrant workers' rights, it did not provide detailed requirements for workplace facilities applicable to all workers.\n\n**Changes Introduced**:\n- The new codes require specific facilities like mess rooms and occupational health centres, which were not explicitly mandated in older laws.\n- The threshold for compliance has been adjusted, with a focus on larger establishments (50+ workers) to ensure better welfare and safety standards.\n\n**Consolidation**:\n- The new codes consolidate various welfare provisions into a more coherent framework, ensuring that all establishments meet minimum safety and health standards.\n\nOverall, the new provisions significantly enhance the legal requirements for employee welfare and safety compared to previous legislation.",
+      "timestamp": "2025-12-22T04:02:56.349966+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "e10b26b8-5b2e-472f-94bf-3cf2deb479a0",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nUnder the applicable labour rules, specifically in Form-I (Register of Wages, Overtime, Fine, and Deductions), an employer is required to maintain detailed records that include the following information:\n\n1. **Name of the Establishment**: The official name of the establishment where the employee is employed (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n2. **Name of the Employer**: The name of the individual or entity that employs the workers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n3. **Name of the Owner**: The name of the owner of the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n4. **PAN/TAN of the Employer**: The Permanent Account Number or Tax Deduction and Collection Account Number of the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n5. **Labour Identification Number (LIN)**: A unique identification number assigned to the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n6. **Employee Details**: This includes:\n   - **Name of the Employee**: Full name of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n   - **Designation/Department**: The job title or department in which the employee works (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n7. **Duration of Payment of Wages**: The frequency of wage payments (Monthly/Fortnightly/Weekly/Daily/Piece rated) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n8. **Wage Period**: The specific period for which wages are calculated (From-To) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n9. **Total Number of Days Worked**: The total days the employee worked during the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n10. **Total Overtime**: The total hours of overtime worked or production in case of piece workers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n11. **Rates of Wages**: This includes the breakdown of wages into Basic, Dearness Allowance (DA), and other allowances (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n12. **Overtime Earnings**: The amount earned by the employee for overtime work (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n13. **Nature of Acts and Omissions for which Fine Imposed**: Details of any fines imposed on the employee, including the reasons (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n14. **Amount of Fine Imposed**: The specific amount of any fines deducted from the employee's wages (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n15. **Damage or Loss Caused**: Any deductions made for damages or losses caused by the employee's neglect or default (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n16. **Total Amount of Wages Paid**: The total wages disbursed to the employee for the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n17. **Date of Payment**: The date on which the wages were paid (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n18. **Attendance Records**: A record of the employee's attendance during the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe requirements for maintaining wage records in Form-I under the new Code on Wages reflect a significant shift from previous legislation such as the Payment of Wages Act, 1936. \n\n- **What has changed**: \n  - The new rules require a more comprehensive record-keeping system that includes detailed breakdowns of wages, overtime, and deductions, which were less specified in older laws (Payment of Wages Act, 1936).\n  - The introduction of electronic record-keeping is emphasized, which was not mandated in older legislation.\n\n- **What is newly introduced**: \n  - The requirement for maintaining a Labour Identification Number (LIN) and the detailed categorization of wage components (Basic, DA, Allowances) is a new addition (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n  - The inclusion of specific records for fines and deductions related to employee conduct is also a new requirement.\n\n- **What has been removed or consolidated**: \n  - The older acts did not require as detailed a breakdown of wage components or the specific nature of fines and deductions, which are now mandatory under the new rules.\n\nOverall, the new provisions represent a move towards greater transparency and accountability in wage management, ensuring that both employers and employees have clear records of employment terms and conditions.",
+      "timestamp": "2025-12-22T05:47:25.899757+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "1356a088-961d-491f-a72d-3ed22d725390",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nThe provided State Draft Rules under the Code on Wages emphasize several key aspects regarding wage payments, including minimum wage, overtime pay, and employer responsibilities. \n\n1. **Minimum Wage**: The rules stipulate that the wages paid to workers, including those employed by contractors, must not be less than the rates prescribed under the Code on Wages, 2019 (Karnataka OSH code.pdf, Page 43). This ensures that all workers, regardless of their employment status, receive fair compensation.\n\n2. **Timely Payment of Wages**: Employers are mandated to pay wages to employees in a timely manner. According to Section 43 of the Code, if an employer fails to pay wages, they are held liable for the unpaid amounts (Press Release Wage Code, Page 4). This reinforces the employer's responsibility to ensure that all employees receive their due wages without delay.\n\n3. **Overtime Pay**: The rules specify that employees are entitled to overtime pay for hours worked beyond the standard working hours. The payment for overtime must be calculated at the rates specified under the Code (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 16). \n\n4. **Deductions from Wages**: The rules outline that any deductions from wages must be authorized and must not exceed fifty percent of the wages for any given month (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 7). This provision aims to protect employees from excessive deductions that could lead to wage theft.\n\n5. **Fair Labor Standards**: The rules aim to establish fair labor standards by ensuring that all employees, including those in informal and contractual employment, are covered under the same wage protection framework (Press Release Wage Code, Page 4). This is a significant step towards inclusivity and reducing exploitation in the workforce.\n\n### 2. Legal Definition (If Required)\n- **Wage Theft**: As per the Central Code (Internal Legal Reference), wage theft refers to the illegal practice of not paying workers the wages they are entitled to. This can include failing to pay minimum wage, not paying for overtime, or making unauthorized deductions from wages. The penalty for wage theft can include fines and compensation for unpaid wages as stipulated under Section 67 of the Code on Wages, 2019.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions under the new Code on Wages represent a significant shift from previous labor laws:\n\n- **Minimum Wage**: Previously, the minimum wage provisions were often limited to specific sectors and wage ceilings. The new Code applies uniformly to all employees, removing the wage ceiling of \u20b924,000 per month (Press Release Wage Code, Page 4). This broadens the scope of wage protection significantly.\n\n- **Overtime Pay**: Under the Factories Act, 1948, overtime was applicable primarily to factory workers. The new Code extends this provision to all employees, ensuring that overtime pay is a right for all workers, not just those in specific industries (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 16).\n\n- **Deductions from Wages**: The previous laws allowed for various deductions, but the new rules impose stricter limits on the percentage of wages that can be deducted, thereby enhancing employee protection against wage theft (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 7).\n\n- **Inclusivity**: The new Code emphasizes inclusivity by ensuring that even informal and contractual workers are entitled to the same wage protections as regular employees, which was not adequately addressed in older legislation (Press Release Wage Code, Page 4).\n\nIn summary, the new provisions under the Code on Wages significantly enhance employee rights and protections compared to previous labor laws, promoting fair labor standards and reducing the potential for wage theft.",
+      "timestamp": "2025-12-22T06:06:14.349540+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "180905f1-f6ae-4872-a42c-51f0ba3c6bd2",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": null,
+      "timestamp": "2025-12-22T06:16:21.482889+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "b678c8c7-a339-4375-b5fa-a4b769883e54",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nThe State Draft Rules under the Code on Wages emphasize the importance of fair wage payments and the timely disbursement of wages to all employees, irrespective of their wage ceiling. According to the provisions, every employer is mandated to pay wages to employees engaged on a daily, weekly, or monthly basis, ensuring that all employees, including those earning above \u20b924,000 per month, are covered under the same wage protection framework (Press Release Wage Code, Page 4). \n\nThe rules also stipulate that if an employer fails to pay wages, they are liable for the unpaid amounts, reinforcing employer accountability (Press Release Wage Code, Page 4). Furthermore, the definition of wages has been redefined to include various components such as basic pay, dearness allowance, and other allowances, ensuring that even contractual and informal workers receive fair compensation (Press Release Wage Code, Page 4). \n\nAdditionally, the rules outline the process for wage deductions, stating that any fines imposed on employees must not exceed 50% of their wages in any given month (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 7). Employers are also required to maintain detailed records of wages, overtime, and deductions in specified formats (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Central Code as the remuneration payable to an employee for their work, which includes basic pay, dearness allowance, and any other allowances. It excludes certain components such as employer contributions to pension funds and gratuity (As per the Central Code, Section 2(yy)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions under the new Code on Wages represent a significant shift from previous legislation such as the Minimum Wages Act, 1948, and the Payment of Wages Act, 1936. \n\n- **What has changed**: The new Code applies to all employees regardless of their wage ceiling, whereas previous laws primarily focused on those earning below a certain threshold (Press Release Wage Code, Page 4). This broadens the scope of wage protection significantly.\n\n- **What is newly introduced**: The redefinition of wage components to include various allowances and the stipulation that fines cannot exceed 50% of an employee's wages in a month are new features (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 7). The requirement for employers to maintain detailed records of wages and deductions is also a new introduction aimed at enhancing transparency.\n\n- **What has been removed or consolidated**: The previous separate frameworks for different categories of workers have been consolidated into a single Code, simplifying compliance for employers and enhancing protections for all workers (Press Release Wage Code, Page 4).\n\nOverall, the new provisions significantly enhance the protections afforded to employees, ensuring fair compensation and accountability for employers, which marks a progressive step in labor reforms in India.",
+      "timestamp": "2025-12-22T06:17:41.112133+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "2f229c9e-fa6e-440b-8f2f-8478ffd68feb",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": null,
+      "timestamp": "2025-12-22T06:24:02.163509+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "0c39c4d7-70e2-40da-ada7-93dca90d229e",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": null,
+      "timestamp": "2025-12-22T06:24:30.825634+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "76ea3560-f0ea-4252-a4df-c98036848e22",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": null,
+      "timestamp": "2025-12-22T06:25:51.188086+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "b12d8c2f-3d21-4f4a-9e9a-1c28fce0c6a8",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": null,
+      "timestamp": "2025-12-22T06:26:27.137571+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "65fe58be-6563-408e-9ce3-ea50e4f53af8",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": {
+        "response": "This query is not related to labour laws."
+      },
+      "timestamp": "2025-12-22T06:29:28.542548+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "432a5510-9d4f-4cbe-bd3f-64a915fc8a7b",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hello! How can I assist you today?",
+      "timestamp": "2025-12-22T06:38:06.954642+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "fb697cde-4f37-47e1-9d49-1c9329d21989",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nUnder the applicable labour rules, specifically in Form-I (Register of Wages, Overtime, Fine, and Deductions), the employer is required to maintain comprehensive records that include the following details:\n\n- **Name of the Establishment**: The official name of the business or organization (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Name of the Employer**: The individual or entity responsible for the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Name of the Owner**: The owner of the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **PAN/TAN of the Employer**: The Permanent Account Number or Tax Deduction and Collection Account Number of the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Labour Identification Number (LIN)**: A unique identification number assigned to the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Employee Details**: This includes the name of each employee, their designation, and the department they belong to (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Duration of Payment of Wages**: The frequency of wage payments (Monthly/Fortnightly/Weekly/Daily/Piece rated) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Wage Period**: The specific period for which wages are being calculated (From-To) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Total Number of Days Worked**: The total days each employee worked during the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Total Overtime**: The total hours worked beyond regular hours or production in case of piece workers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Rates of Wages**: This includes the basic wage, dearness allowance (DA), and any other allowances (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Overtime Earnings**: The amount earned by employees for overtime work (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Nature of Acts and Omissions for which Fine Imposed**: Details regarding any fines imposed on employees, including the reasons for such fines (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Amount of Fine Imposed**: The specific amount of any fines that have been levied (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Damage or Loss Caused**: Any deductions made from wages due to damage or loss caused by the employee's neglect or default (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Total Amount of Wages Paid**: The total wages disbursed to each employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Date of Payment**: The date on which wages were paid to the employees (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n- **Attendance Records**: Documentation of employee attendance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe requirements for maintaining wage records in Form-I under the new Code on Wages represent a significant consolidation and modernization of previous regulations. \n\n- **What has changed**: The new rules require a more detailed and structured format for wage records, including specific entries for overtime, fines, and deductions, which were less explicitly defined in older legislation (such as the Payment of Wages Act, 1936).\n  \n- **What is newly introduced**: The requirement for electronic maintenance of records and the inclusion of detailed entries for overtime and deductions is a new feature aimed at enhancing transparency and compliance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n- **What has been removed or consolidated**: Previous acts like the Payment of Wages Act did not mandate such comprehensive record-keeping, and the new Code consolidates various provisions into a single framework, streamlining compliance for employers.\n\nOverall, the new provisions enhance clarity and accountability in wage management compared to the older regulatory framework.",
+      "timestamp": "2025-12-22T06:59:16.851121+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "b1216b62-0504-48be-acb1-dfee7d104f69",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nUnder the applicable labour rules, specifically in Form-I (Register of Wages, Overtime, Fine, and Deductions), every employer is required to maintain detailed records that include the following information:\n\n1. **Name of the Establishment**: The official name of the business or organization (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n2. **Name of the Employer**: The name of the individual or entity that employs the workers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n3. **Name of the Owner**: The name of the owner of the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n4. **PAN/TAN of the Employer**: The Permanent Account Number or Tax Deduction and Collection Account Number of the employer (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n5. **Labour Identification Number (LIN)**: A unique identification number assigned to the establishment (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n6. **Employee Details**: This includes:\n   - **Sr. No. in Employee Register**: A serial number for each employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n   - **Name of the Employee**: The full name of each employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n   - **Designation/Department**: The job title or department of the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n7. **Duration of Payment of Wages**: The frequency of wage payments (Monthly/Fortnightly/Weekly/Daily/Piece rated) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n8. **Wage Period**: The specific period for which wages are being calculated (From-To) (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n9. **Total Number of Days Worked**: The total days worked by the employee during the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n10. **Total Overtime**: The total hours of overtime worked or production in case of piece workers (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n11. **Rates of Wages**: The breakdown of wages, including Basic, Dearness Allowance (DA), and other allowances (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n12. **Overtime Earnings**: The earnings from overtime work (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n13. **Nature of Acts and Omissions for which Fine Imposed**: Details of any fines imposed on the employee (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n14. **Amount of Fine Imposed**: The specific amount of any fines (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n15. **Damage or Loss Caused to the Employer**: Any damages or losses attributed to the employee's neglect or default (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n16. **Amount of Deduction from Wages**: The total amount deducted from the employee's wages (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n17. **Total Amount of Wages Paid**: The total wages paid to the employee for the wage period (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n18. **Date of Payment**: The date on which wages were paid (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n19. **Attendance**: Records of the employee's attendance (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n20. **Signature**: The signature of the employer or authorized person confirming the entries (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n### 2. Legal Definition (If Required)\nThis information is not found in the provided documents.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe requirements for maintaining wage records in Form-I under the new Code on Wages represent a significant shift from previous legislation such as the Payment of Wages Act, 1936. \n\n- **What has changed**: The new rules require a more comprehensive and detailed record-keeping system that includes not only wages but also overtime, fines, and deductions, which were not as explicitly detailed in older laws (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n  \n- **What is newly introduced**: The inclusion of electronic record-keeping and the requirement for detailed breakdowns of wage components (Basic, DA, allowances) and the nature of fines and deductions is a new feature (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\n- **What has been removed or consolidated**: The previous Acts did not require such detailed records of overtime and deductions, which are now mandatory under the new framework (Karnataka Code on Wages 2020 Draft Rules.pdf, Page 14).\n\nOverall, the new provisions enhance transparency and accountability in wage payments and employee records, aiming to protect workers' rights more effectively than before.",
+      "timestamp": "2025-12-22T07:00:20.266387+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "76e42195-e222-4452-958a-ef7195df7d42",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absence from work, but there are specific conditions that must be met. According to Section 20 of the Code, deductions can only be made for the period during which the employee was absent from their designated place of work (Code on Wages, 2019, Section 20(1), Page 11). The amount deducted cannot exceed the proportion of the absence to the total wage period (Code on Wages, 2019, Section 20(2), Page 11). Furthermore, the appropriate Government may set different time limits for wage payments, provided they consider it reasonable (Code on Wages, 2019, Section 20(3), Page 9). It is also emphasized that no deductions are allowed from wages except those authorized under the Code (Code on Wages, 2019, Section 18(1), Page 9).\n\n### 2. Legal Definition (If Required)\nThe term \"deduction\" in the context of wages refers to any amount that is subtracted from an employee's wages for various reasons, including absence from work. As per the Central Code (Internal Legal Reference), Section 18 defines deductions as amounts that can be legally subtracted from wages, which must be explicitly authorized under the Code. \n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019 represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent. The new Code provides a clearer framework, specifying that deductions must be proportional to the absence period relative to the total wage period (Code on Wages, 2019, Section 20(2), Page 11). \n\nAdditionally, the earlier laws did not uniformly apply to all employees, whereas the Code on Wages, 2019 extends its provisions to all employees, regardless of their wage ceiling, thus ensuring a more equitable treatment of workers (Press Release Wage Code, Page 4). This change consolidates various provisions and introduces a more structured approach to wage deductions, enhancing legal compliance and protecting employee rights. \n\nIn summary, the new Code on Wages, 2019 has introduced clearer guidelines and broader applicability compared to the previous Acts, ensuring that deductions for absence are fair and proportionate.",
+      "timestamp": "2025-12-22T07:01:29.253658+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "c4116ace-723e-436d-bfe4-ee15cfd0cf26",
+      "state_id": "KA",
+      "state_name": "Karnataka",
+      "message": "Hello! How can I assist you today?",
+      "timestamp": "2025-12-22T07:01:51.596954+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maha",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "e871a8e4-3fb7-4e3a-9a4b-30ad51b8b6c0",
+      "state_id": "KA",
+      "state_name": "Maha",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work, but there are specific conditions that must be met. According to Section 20(1), deductions can only be made for the absence of an employee from the place of work as required by the terms of their employment (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, the amount deducted cannot exceed the proportion of the absence to the total wage period. This means that if an employee is absent for a certain number of days, the deduction from their wages must be proportional to that absence (the_code_on_wages_2019_no._29_of_2019, Page 11).\n\nAdditionally, the appropriate Government has the authority to set different time limits for wage payments, which may affect how deductions are applied (the_code_on_wages_2019_no._29_of_2019, Page 9). It is also important to note that no deductions can be made from wages except those authorized under the Code (the_code_on_wages_2019_no._29_of_2019, Page 9).\n\n### 2. Legal Definition (If Required)\nThe term \"deduction\" in the context of wages refers to any amount that is subtracted from an employee's wages for various reasons, including absence from work. As per the Central Code (Internal Legal Reference), Section 18 outlines the permissible deductions, which include absence from duty, provided they comply with the proportionality rule stated in the Code.\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019 represent a significant shift from previous legislation. Under the Factories Act, 1948, for instance, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent. The new Code establishes a clear framework that mandates proportional deductions based on the duration of absence, which was not explicitly required in earlier laws.\n\nMoreover, the previous laws did not uniformly apply to all employees, whereas the Code on Wages, 2019 extends these provisions to all employees, regardless of their wage ceiling (Press Release Wage Code, Page 4). This change ensures that both blue-collar and white-collar workers are treated equally under the law, promoting fairness in wage deductions.\n\nIn summary, the new provisions introduce a more structured approach to wage deductions for absences, ensuring that deductions are fair and proportional, which is a notable improvement over the previous regulatory framework.",
+      "timestamp": "2025-12-22T09:41:04.230373+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "0437519f-9659-4fc9-b652-f3d3eac8aa6a",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work. Specifically, deductions can be made for the absence of an employee from the place of work as required by the terms of their employment (Code on Wages, 2019, Section 20(1), Page 11). However, the amount deducted cannot exceed the proportion of the absence to the total period for which the employee was required to work during that wage period (Code on Wages, 2019, Section 20(2), Page 11). Furthermore, the appropriate Government may establish additional rules regarding the time limits for wage payments, which must be adhered to (Code on Wages, 2019, Section 18(3), Page 9). It is also important to note that no deductions from wages are allowed except those authorized under the Code (Code on Wages, 2019, Section 18(1), Page 9).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, expressed in terms of money, which would, if the terms of employment were fulfilled, be payable to a person by an employer in respect of their employment (Internal Legal Reference, Code on Wages, 2019, Section 2(y)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. \n\n- **Factories Act, 1948**: Previously, the ability to deduct wages for absence was less clearly defined, and the provisions were more fragmented. The new Code consolidates these rules, providing a clearer framework for deductions.\n  \n- **Contract Labour (Regulation and Abolition) Act, 1970**: This Act did not specifically address wage deductions for absence, leaving it to the terms of the contract. The new Code standardizes the approach across all employment types, ensuring uniformity in wage deductions.\n\n- **Inter-State Migrant Workmen Act, 1979**: Similar to the Contract Labour Act, this Act did not provide explicit guidelines on wage deductions for absence. The Code on Wages, 2019, now applies uniformly to all workers, regardless of their employment status, which is a notable change.\n\nIn summary, the Code on Wages, 2019, introduces a more structured and uniform approach to wage deductions for absence, consolidating and clarifying the rules that were previously scattered across various laws. This provision is a significant improvement in terms of legal clarity and employee rights compared to earlier legislation.",
+      "timestamp": "2025-12-22T09:43:24.984551+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "672b3e6d-425f-4ec0-8677-af5b8f0925b0",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absence from work. Specifically, Section 18(1) states that there shall be no deductions from the wages of an employee except those authorized under the Code (the_code_on_wages_2019_no._29_of_2019, Page 9). Deductions for absence from duty are outlined in Section 20, which specifies that deductions may only be made for the absence of an employee from the place where they are required to work, and this absence can be for the whole or any part of the period during which they are required to work (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nThe amount deducted for absence cannot exceed the proportion of wages payable to the employee in relation to the total period of absence (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 11).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, expressed in terms of money, which would include any payment made by an employer to an employee for work done (Internal Legal Reference, Section 2(yy)). \n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent. The earlier laws did not explicitly limit the amount that could be deducted based on the duration of absence relative to the total wage period.\n\nIn contrast, the Code on Wages, 2019, introduces a more structured approach by specifying that deductions for absence must be proportional to the wages payable and the period of absence (the_code_on_wages_2019_no._29_of_2019, Page 11). Additionally, the provision allowing deductions for collective absence (i.e., when ten or more employees are absent without notice) is a new introduction that was not present in earlier laws.\n\nOverall, the new Code consolidates and clarifies the rules regarding wage deductions for absence, ensuring that employees have clearer protections and that employers have defined parameters within which they can operate. This provision marks a significant improvement in legal compliance and employee rights compared to the previous Acts.",
+      "timestamp": "2025-12-23T04:34:44.824126+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "eb4bd965-88c7-452d-8838-ea3c642680fb",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absence from work. Specifically, Section 18(1) states that there shall be no deductions from the wages of an employee except those authorized under the Code (the_code_on_wages_2019_no._29_of_2019, Page 9). Deductions for absence from duty are outlined in Section 20, which specifies that deductions may only be made for the absence of an employee from the place where they are required to work, and this absence can be for the whole or any part of the period during which they are required to work (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nThe amount deducted for absence cannot exceed the proportion of wages payable to the employee based on the duration of their absence relative to the total period they were required to work during that wage period (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment, express or implied, were fulfilled, be payable to a person in respect of his employment (As per the Central Code, Section 2(yy)). \n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were not explicitly defined, leading to varied interpretations and practices. The new Code provides a clear framework that specifies the conditions under which deductions can be made, thus enhancing legal clarity and compliance (the_code_on_wages_2019_no._29_of_2019, Page 9).\n\nAdditionally, the previous Contract Labour (Regulation and Abolition) Act, 1970, did not address wage deductions for absence in detail, whereas the new Code explicitly allows deductions only for authorized reasons, including absence, and sets limits on the amount that can be deducted (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nIn summary, the Code on Wages, 2019, consolidates and clarifies the rules regarding wage deductions for absence, providing a more structured approach compared to the older Acts, which lacked specific provisions on this matter.",
+      "timestamp": "2025-12-23T04:50:28.138081+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "d05f305e-2c00-4f52-a6c5-8703583d1062",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Hello! How can I assist you today?",
+      "timestamp": "2025-12-23T05:30:48.737741+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "What was the previous message?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "7a53399e-6df0-45bb-ac70-9827e40b4e24",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "I'm sorry, but I can't provide previous messages. How can I assist you today?",
+      "timestamp": "2025-12-23T05:37:14.399179+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Hi",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "71d32c12-30ba-4a89-86d6-94e2dd5eb437",
+      "state_id": "KA",
+      "state_name": "Central",
+      "message": "Hello! How can I assist you today?",
+      "timestamp": "2025-12-23T10:42:06.748092+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "94ceff23-ac4d-43e6-99e8-1db89a4bbcda",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work. Specifically, Section 20(1) states that deductions can only be made for the absence of an employee from the place where they are required to work, as per the terms of their employment (the_code_on_wages_2019_no._29_of_2019, Page 11). The amount deducted for absence cannot exceed the proportion of wages payable to the employee based on the duration of their absence relative to the total period they were required to work during that wage period (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment were fulfilled, be payable to a person in respect of their employment (As per the Central Code, Section 2(yy)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent (Factories Act, 1948). The new Code provides a clearer framework that mandates proportional deductions based on the duration of absence, which was not explicitly required in earlier laws (the_code_on_wages_2019_no._29_of_2019, Page 11). \n\nAdditionally, the previous Contract Labour (Regulation and Abolition) Act, 1970, did not address wage deductions for absence in detail, whereas the new Code explicitly allows deductions only for authorized reasons, including absence, and sets limits on the amount that can be deducted (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nIn summary, the Code on Wages, 2019, consolidates and clarifies the rules regarding wage deductions for absence, providing a more structured approach compared to the older Acts, which lacked specific provisions on this matter.",
+      "timestamp": "2025-12-23T11:04:26.354053+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "bb34b060-687f-4581-bb43-02b198574b88",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work. Specifically, Section 20(1) states that deductions can only be made for the absence of an employee from the place where they are required to work, as per the terms of their employment (the_code_on_wages_2019_no._29_of_2019, Page 11). The amount deducted for absence cannot exceed the proportion of wages payable to the employee based on the duration of their absence relative to the total period they were required to work during that wage period (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment were fulfilled, be payable to a person in respect of their employment (As per the Central Code, Section 2(yy)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent (Factories Act, 1948). The new Code provides a clearer framework that mandates proportional deductions based on the duration of absence, which was not explicitly required in earlier laws (the_code_on_wages_2019_no._29_of_2019, Page 11). \n\nAdditionally, the previous Contract Labour (Regulation and Abolition) Act, 1970, did not address wage deductions for absence in detail, whereas the new Code explicitly allows deductions only for authorized reasons, including absence, and sets limits on the amount that can be deducted (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nIn summary, the Code on Wages, 2019, consolidates and clarifies the rules regarding wage deductions for absence, providing a more structured approach compared to the older Acts, which lacked specific provisions on this matter.",
+      "timestamp": "2025-12-23T11:15:56.079658+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "851faccf-aacc-4019-aaaa-61a9b6ad42df",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work. Specifically, Section 20(1) states that deductions can only be made for the absence of an employee from the place where they are required to work, as per the terms of their employment (the_code_on_wages_2019_no._29_of_2019, Page 11). The amount deducted for absence cannot exceed the proportion of wages payable to the employee based on the duration of their absence relative to the total period they were required to work during that wage period (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment were fulfilled, be payable to a person in respect of their employment (As per the Central Code, Section 2(yy)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent (Factories Act, 1948). The new Code provides a clearer framework that mandates proportional deductions based on the duration of absence, which was not explicitly required in earlier laws (the_code_on_wages_2019_no._29_of_2019, Page 11). \n\nAdditionally, the previous Contract Labour (Regulation and Abolition) Act, 1970, did not address wage deductions for absence in detail, whereas the new Code explicitly allows deductions only for authorized reasons, including absence, and sets limits on the amount that can be deducted (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nIn summary, the Code on Wages, 2019, consolidates and clarifies the rules regarding wage deductions for absence, providing a more structured approach compared to the older Acts, which lacked specific provisions on this matter.",
+      "timestamp": "2025-12-23T11:16:15.618623+00:00",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "user",
+      "message_id": "msg002",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "Can an employer deduct wages for absence from under the Code on Wages 2019?",
+      "timestamp": "2025-01-01T11:00:00Z",
+      "feedback_status": "not given"
+    },
+    {
+      "role": "bot",
+      "message_id": "1e5be175-c241-41fb-b233-c63503b2abff",
+      "state_id": "KA",
+      "state_name": "Maharashtra",
+      "message": "### 1. The Rule (From Context)\nUnder the Code on Wages, 2019, an employer is permitted to deduct wages from an employee's pay for absences from work. Specifically, Section 20(1) states that deductions can only be made for the absence of an employee from the place where they are required to work, as per the terms of their employment (the_code_on_wages_2019_no._29_of_2019, Page 11). The amount deducted for absence cannot exceed the proportion of wages payable to the employee based on the duration of their absence relative to the total period they were required to work during that wage period (the_code_on_wages_2019_no._29_of_2019, Page 11). Furthermore, if ten or more employees act in concert and absent themselves without due notice, the employer may deduct an amount not exceeding the wages for eight days from any such employee (the_code_on_wages_2019_no._29_of_2019, Page 12).\n\n### 2. Legal Definition (If Required)\nThe term \"wages\" is defined under the Code on Wages, 2019, as all remuneration, by whatever name called, which would, if the terms of the contract of employment were fulfilled, be payable to a person in respect of their employment (As per the Central Code, Section 2(yy)).\n\n### 3. Old vs New Analysis (CRITICAL)\nThe provisions regarding wage deductions for absence under the Code on Wages, 2019, represent a significant shift from previous legislation. Under the Factories Act, 1948, deductions for absence were less clearly defined, and the criteria for such deductions were not as stringent (Factories Act, 1948). The new Code provides a clearer framework that mandates proportional deductions based on the duration of absence, which was not explicitly required in earlier laws (the_code_on_wages_2019_no._29_of_2019, Page 11). \n\nAdditionally, the previous Contract Labour (Regulation and Abolition) Act, 1970, did not address wage deductions for absence in detail, whereas the new Code explicitly allows deductions only for authorized reasons, including absence, and sets limits on the amount that can be deducted (the_code_on_wages_2019_no._29_of_2019, Page 12). \n\nIn summary, the Code on Wages, 2019, consolidates and clarifies the rules regarding wage deductions for absence, providing a more structured approach compared to the older Acts, which lacked specific provisions on this matter.",
+      "timestamp": "2025-12-23T11:18:44.751405+00:00",
+      "feedback_status": "not given"
+    }
+  ]
+}

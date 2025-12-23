@@ -1,0 +1,14 @@
+{
+    "user_id": "test.user@example.com",
+    "session_id": "sess002",
+    "session_title": "Labour Law Test",
+    "is_starred": false,
+    "message_id": "msg002",
+    "state_id": "KA",
+    "state_name": "Karnataka",
+    "query": "What details are required to be maintained by an employer in Form-I (Register of Wages, Overtime, Fine and Deductions) under the applicable labour rules?",
+    "law_type": "wage",
+    "language_code": "en-IN",
+    "timestamp": "2025-01-01T11:00:00Z"
+  }
+  
