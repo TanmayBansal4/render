@@ -4,7 +4,7 @@ def process_tech_query(query, state, law_type, chat_history):
     from langchain_community.vectorstores import FAISS
     from langchain_community.embeddings import SentenceTransformerEmbeddings
     from langchain_openai import AzureChatOpenAI
-    from langchain.prompts import PromptTemplate
+    from langchain_core.prompts import PromptTemplate
 
     from dotenv import load_dotenv
     from pathlib import Path
@@ -251,4 +251,5 @@ DETAILED ANALYST RESPONSE (IN ENGLISH):
     # print("AI ANSWER:")
  
     # print(response.content)
+
     return response.content
